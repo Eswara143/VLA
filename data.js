@@ -716,6 +716,24 @@ window.CATEGORIZED_DATASETS = [
     "task_name": "OrganizeBookshelf"
   },
   {
+    "id": "unitreerobotics/G1_Dex1_Assembling_Motor",
+    "name": "G1_Dex1_Assembling_Motor",
+    "downloads": 865,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Assembling_Motor",
+    "finger_category": "2_fingers",
+    "finger_label": "2 Fingers (Dex1)",
+    "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+    "task_name": "Assembling Motor"
+  },
+  {
     "id": "unitreerobotics/G1_Dex1_StoreEarphones",
     "name": "G1_Dex1_StoreEarphones",
     "downloads": 837,
