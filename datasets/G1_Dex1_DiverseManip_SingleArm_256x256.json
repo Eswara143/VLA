@@ -1,0 +1,27 @@
+{
+  "id": "unitreerobotics/G1_Dex1_DiverseManip_SingleArm_256x256",
+  "name": "G1_Dex1_DiverseManip_SingleArm_256x256",
+  "downloads": 589,
+  "likes": 2,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:1804.01523",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DiverseManip_SingleArm_256x256",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "DiverseManip SingleArm 256x256"
+}

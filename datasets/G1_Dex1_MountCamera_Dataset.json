@@ -1,0 +1,26 @@
+{
+  "id": "unitreerobotics/G1_Dex1_MountCamera_Dataset",
+  "name": "G1_Dex1_MountCamera_Dataset",
+  "downloads": 1219,
+  "likes": 3,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_MountCamera_Dataset",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "MountCamera"
+}

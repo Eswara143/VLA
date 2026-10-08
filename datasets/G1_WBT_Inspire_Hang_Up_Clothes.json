@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Hang_Up_Clothes",
+  "name": "G1_WBT_Inspire_Hang_Up_Clothes",
+  "downloads": 835,
+  "likes": 1,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Hang_Up_Clothes",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Hang Up Clothes"
+}

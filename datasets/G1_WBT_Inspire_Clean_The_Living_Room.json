@@ -1,0 +1,27 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Clean_The_Living_Room",
+  "name": "G1_WBT_Inspire_Clean_The_Living_Room",
+  "downloads": 1923,
+  "likes": 2,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "library:lerobot",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Clean_The_Living_Room",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Clean The Living Room"
+}

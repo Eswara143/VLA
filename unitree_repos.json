@@ -1,0 +1,2587 @@
+[
+  {
+    "id": "unitreerobotics/G1_Dex3_ToastedBread_Dataset",
+    "name": "G1_Dex3_ToastedBread_Dataset",
+    "downloads": 6813,
+    "likes": 6,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Stack_Block",
+    "name": "G1_Dex1_Stack_Block",
+    "downloads": 3055,
+    "likes": 6,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Stack_Block"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Collect_Plates_Into_Dishwasher",
+    "name": "G1_WBT_Brainco_Collect_Plates_Into_Dishwasher",
+    "downloads": 2616,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Collect_Plates_Into_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Clothes_into_Washing_Machine",
+    "name": "G1_WBT_Inspire_Put_Clothes_into_Washing_Machine",
+    "downloads": 2481,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Clothes_into_Washing_Machine"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Wipe_Table",
+    "name": "G1_Dex1_Wipe_Table",
+    "downloads": 2302,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Wipe_Table"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks_v0",
+    "name": "G1_WBT_Inspire_Pick_Up_Drinks_v0",
+    "downloads": 2269,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks_v0"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Vegetables_Into_Basket_v0",
+    "name": "G1_WBT_Inspire_Put_Vegetables_Into_Basket_v0",
+    "downloads": 2196,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Vegetables_Into_Basket_v0"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Clothes_Into_Basket",
+    "name": "G1_WBT_Inspire_Put_Clothes_Into_Basket",
+    "downloads": 2000,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Clothes_Into_Basket"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pickup_Pillow",
+    "name": "G1_WBT_Brainco_Pickup_Pillow",
+    "downloads": 1989,
+    "likes": 5,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pickup_Pillow"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Plastic_Box_Parts",
+    "name": "G1_WBT_Inspire_Plastic_Box_Parts",
+    "downloads": 1989,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Plastic_Box_Parts"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Plastic_Box_Parts",
+    "name": "G1_WBT_Brainco_Plastic_Box_Parts",
+    "downloads": 1970,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Plastic_Box_Parts"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Dex1_Put_Clothes_into_Washing_Machine",
+    "name": "G1_WBT_Dex1_Put_Clothes_into_Washing_Machine",
+    "downloads": 1937,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Dex1_Put_Clothes_into_Washing_Machine"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Clean_The_Living_Room",
+    "name": "G1_WBT_Inspire_Clean_The_Living_Room",
+    "downloads": 1923,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Clean_The_Living_Room"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Medicine_v0",
+    "name": "G1_WBT_Brainco_Pick_Up_Medicine_v0",
+    "downloads": 1892,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Medicine_v0"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0",
+    "name": "G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0",
+    "downloads": 1869,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher",
+    "name": "G1_WBT_Inspire_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher",
+    "downloads": 1855,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ToolboxStorage",
+    "name": "G1_Dex1_ToolboxStorage",
+    "downloads": 1776,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ToolboxStorage"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Put_Sink_Towel",
+    "name": "G1_WBT_Brainco_Put_Sink_Towel",
+    "downloads": 1627,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Put_Sink_Towel"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Make_The_Bed",
+    "name": "G1_WBT_Brainco_Make_The_Bed",
+    "downloads": 1588,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "library:lerobot",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Make_The_Bed"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Laundry_Basket_Washer",
+    "name": "G1_WBT_Brainco_Laundry_Basket_Washer",
+    "downloads": 1541,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Laundry_Basket_Washer"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_MountCameraRedGripper_Dataset",
+    "name": "G1_Dex1_MountCameraRedGripper_Dataset",
+    "downloads": 1461,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_MountCameraRedGripper_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_StackBox_Dataset",
+    "name": "Z1_StackBox_Dataset",
+    "downloads": 1457,
+    "likes": 7,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_StackBox_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Fold_Towel",
+    "name": "G1_Dex1_Fold_Towel",
+    "downloads": 1449,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Fold_Towel"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_HangCup",
+    "name": "G1_Dex1_HangCup",
+    "downloads": 1416,
+    "likes": 4,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_HangCup"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Tidy_Living_Room_Slippers",
+    "name": "G1_WBT_Brainco_Tidy_Living_Room_Slippers",
+    "downloads": 1398,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Tidy_Living_Room_Slippers"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_FoldTowel",
+    "name": "G1_Dex1_FoldTowel",
+    "downloads": 1389,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_FoldTowel"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_SpellRobot",
+    "name": "G1_Dex1_SpellRobot",
+    "downloads": 1388,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_SpellRobot"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Multiple_Cushions",
+    "name": "G1_WBT_Brainco_Pick_Up_Multiple_Cushions",
+    "downloads": 1374,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Multiple_Cushions"
+  },
+  {
+    "id": "unitreerobotics/unitree_model",
+    "name": "unitree_model",
+    "downloads": 1307,
+    "likes": 39,
+    "tags": [
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/unitree_model"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_OrganizeTools",
+    "name": "G1_Dex1_OrganizeTools",
+    "downloads": 1306,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_OrganizeTools"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Vegetables_Into_Basket",
+    "name": "G1_WBT_Inspire_Put_Vegetables_Into_Basket",
+    "downloads": 1305,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Vegetables_Into_Basket"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Organize_Tools",
+    "name": "G1_Dex1_Organize_Tools",
+    "downloads": 1301,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Organize_Tools"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks",
+    "name": "G1_WBT_Inspire_Pick_Up_Drinks",
+    "downloads": 1295,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Sort_Fruit",
+    "name": "G1_WBT_Inspire_Sort_Fruit",
+    "downloads": 1268,
+    "likes": 2,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Sort_Fruit"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Erase_Board",
+    "name": "G1_Dex1_Erase_Board",
+    "downloads": 1258,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Erase_Board"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher",
+    "name": "G1_WBT_Brainco_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher",
+    "downloads": 1255,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Walk_To_Table_Put_Cups_And_Rack_Plates_In_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Pour_Medicine",
+    "name": "G1_Dex1_Pour_Medicine",
+    "downloads": 1250,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Pour_Medicine"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Put_Plate_Into_Dishwasher",
+    "name": "G1_WBT_Brainco_Put_Plate_Into_Dishwasher",
+    "downloads": 1248,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Put_Plate_Into_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Clothes",
+    "name": "G1_WBT_Brainco_Pick_Up_Clothes",
+    "downloads": 1246,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Clothes"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_MountCamera_Dataset",
+    "name": "G1_Dex1_MountCamera_Dataset",
+    "downloads": 1219,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_MountCamera_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Pack_PingPong",
+    "name": "G1_Dex1_Pack_PingPong",
+    "downloads": 1210,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Pack_PingPong"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DualRobot_Clean_Table",
+    "name": "G1_Dex1_DualRobot_Clean_Table",
+    "downloads": 1209,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DualRobot_Clean_Table"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Empty_Folder_In_Cabinet",
+    "name": "G1_WBT_Brainco_Empty_Folder_In_Cabinet",
+    "downloads": 1209,
+    "likes": 2,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Empty_Folder_In_Cabinet"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_OrganizePencilCase",
+    "name": "G1_Dex1_OrganizePencilCase",
+    "downloads": 1208,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_OrganizePencilCase"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Prepare_Fruit",
+    "name": "G1_Dex1_Prepare_Fruit",
+    "downloads": 1200,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Prepare_Fruit"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Tidy_Living_Room_Slippers",
+    "name": "G1_WBT_Inspire_Tidy_Living_Room_Slippers",
+    "downloads": 1199,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Tidy_Living_Room_Slippers"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Sort_Fruit",
+    "name": "G1_WBT_Brainco_Sort_Fruit",
+    "downloads": 1188,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Sort_Fruit"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ArrangePlates",
+    "name": "G1_Dex1_ArrangePlates",
+    "downloads": 1172,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ArrangePlates"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ConveyorSorting",
+    "name": "G1_Dex1_ConveyorSorting",
+    "downloads": 1162,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ConveyorSorting"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Drinks",
+    "name": "G1_WBT_Brainco_Pick_Up_Drinks",
+    "downloads": 1132,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Drinks"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Put_Vegetables_Into_Basket",
+    "name": "G1_WBT_Brainco_Put_Vegetables_Into_Basket",
+    "downloads": 1126,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Put_Vegetables_Into_Basket"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Put_Clothes_Into_Washing_Machine",
+    "name": "G1_WBT_Brainco_Put_Clothes_Into_Washing_Machine",
+    "downloads": 1120,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Put_Clothes_Into_Washing_Machine"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Multiple_Cushions",
+    "name": "G1_WBT_Inspire_Pick_Up_Multiple_Cushions",
+    "downloads": 1113,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Multiple_Cushions"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Empty_Folder_In_Cabinet",
+    "name": "G1_WBT_Inspire_Empty_Folder_In_Cabinet",
+    "downloads": 1112,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Empty_Folder_In_Cabinet"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Bag_Insert",
+    "name": "G1_Dex1_Bag_Insert",
+    "downloads": 1106,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "modality:video",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Bag_Insert"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Plate_Into_Dishwasher",
+    "name": "G1_WBT_Inspire_Put_Plate_Into_Dishwasher",
+    "downloads": 1105,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Plate_Into_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Pack_PencilBox",
+    "name": "G1_Dex1_Pack_PencilBox",
+    "downloads": 1100,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Pack_PencilBox"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Supermarket_Shelf_Organizing",
+    "name": "G1_WBT_Brainco_Supermarket_Shelf_Organizing",
+    "downloads": 1098,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Supermarket_Shelf_Organizing"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Clean_Living_Room",
+    "name": "G1_WBT_Inspire_Clean_Living_Room",
+    "downloads": 1091,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Clean_Living_Room"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ColorArrangement",
+    "name": "G1_Dex1_ColorArrangement",
+    "downloads": 1070,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ColorArrangement"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Fruit",
+    "name": "G1_WBT_Inspire_Pick_Up_Fruit",
+    "downloads": 1067,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Fruit"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Load_Shoes_On_Conveyor",
+    "name": "G1_Dex1_Load_Shoes_On_Conveyor",
+    "downloads": 1048,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Load_Shoes_On_Conveyor"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Hang_Up_Clothes",
+    "name": "G1_WBT_Brainco_Hang_Up_Clothes",
+    "downloads": 1040,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Hang_Up_Clothes"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PackDoll",
+    "name": "G1_Dex1_PackDoll",
+    "downloads": 1030,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PackDoll"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_StorePaddle",
+    "name": "G1_Dex1_StorePaddle",
+    "downloads": 1016,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StorePaddle"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Adjust_Sickbed",
+    "name": "G1_WBT_Brainco_Adjust_Sickbed",
+    "downloads": 1012,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Adjust_Sickbed"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_BlockStacking_Dataset",
+    "name": "G1_Dex3_BlockStacking_Dataset",
+    "downloads": 1009,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_BlockStacking_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Supermarket_Shelf_Organizing",
+    "name": "G1_WBT_Inspire_Supermarket_Shelf_Organizing",
+    "downloads": 1006,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Supermarket_Shelf_Organizing"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_RemovePinnedNote",
+    "name": "G1_Dex1_RemovePinnedNote",
+    "downloads": 979,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_RemovePinnedNote"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Clothes",
+    "name": "G1_WBT_Inspire_Pick_Up_Clothes",
+    "downloads": 974,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Clothes"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PlugInEthernet",
+    "name": "G1_Dex1_PlugInEthernet",
+    "downloads": 956,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PlugInEthernet"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PickOutBatteries",
+    "name": "G1_Dex1_PickOutBatteries",
+    "downloads": 945,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PickOutBatteries"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_ObjectPlacement_Dataset",
+    "name": "G1_Dex3_ObjectPlacement_Dataset",
+    "downloads": 924,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ObjectPlacement_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PackPhone",
+    "name": "G1_Dex1_PackPhone",
+    "downloads": 923,
+    "likes": 1,
+    "tags": [
+      "modality:video",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PackPhone"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DisconnectEthernet",
+    "name": "G1_Dex1_DisconnectEthernet",
+    "downloads": 922,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DisconnectEthernet"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ArrangeTestTubes",
+    "name": "G1_Dex1_ArrangeTestTubes",
+    "downloads": 911,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ArrangeTestTubes"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Medicine",
+    "name": "G1_WBT_Brainco_Pick_Up_Medicine",
+    "downloads": 903,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Medicine"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+    "name": "G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+    "downloads": 897,
+    "likes": 4,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Organize_Desk",
+    "name": "G1_Dex1_Organize_Desk",
+    "downloads": 897,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Organize_Desk"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge",
+    "name": "G1_WBT_Inspire_Put_Drinks_Into_Fridge",
+    "downloads": 888,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_OrganizeBookshelf",
+    "name": "G1_Dex1_OrganizeBookshelf",
+    "downloads": 872,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_OrganizeBookshelf"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Cushion",
+    "name": "G1_WBT_Brainco_Pick_Up_Cushion",
+    "downloads": 872,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Cushion"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Tidy_The_Bed",
+    "name": "G1_WBT_Brainco_Tidy_The_Bed",
+    "downloads": 864,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Tidy_The_Bed"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Up_Fruit",
+    "name": "G1_WBT_Brainco_Pick_Up_Fruit",
+    "downloads": 852,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Up_Fruit"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Make_Bed",
+    "name": "G1_WBT_Brainco_Make_Bed",
+    "downloads": 850,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Make_Bed"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_StoreEarphones",
+    "name": "G1_Dex1_StoreEarphones",
+    "downloads": 837,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StoreEarphones"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Hang_Up_Clothes",
+    "name": "G1_WBT_Inspire_Hang_Up_Clothes",
+    "downloads": 835,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Hang_Up_Clothes"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Push_Wheelchair",
+    "name": "G1_WBT_Inspire_Push_Wheelchair",
+    "downloads": 830,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Push_Wheelchair"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PourOutMedicine",
+    "name": "G1_Dex1_PourOutMedicine",
+    "downloads": 826,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PourOutMedicine"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_StoreCups",
+    "name": "G1_Dex1_StoreCups",
+    "downloads": 818,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StoreCups"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_SyringeWaterTransfer",
+    "name": "G1_Dex1_SyringeWaterTransfer",
+    "downloads": 788,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_SyringeWaterTransfer"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_OrganizeStationery",
+    "name": "G1_Dex1_OrganizeStationery",
+    "downloads": 787,
+    "likes": 0,
+    "tags": [
+      "modality:video",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_OrganizeStationery"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Collect_Clothes_MainCamOnly",
+    "name": "G1_WBT_Inspire_Collect_Clothes_MainCamOnly",
+    "downloads": 779,
+    "likes": 12,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Collect_Clothes_MainCamOnly"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_CameraPackaging_Dataset",
+    "name": "G1_Dex3_CameraPackaging_Dataset",
+    "downloads": 778,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_CameraPackaging_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PaperCupStacking",
+    "name": "G1_Dex1_PaperCupStacking",
+    "downloads": 769,
+    "likes": 1,
+    "tags": [
+      "modality:video",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PaperCupStacking"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+    "name": "G1_WBT_Brainco_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+    "downloads": 753,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pick_Cloth_On_Bed_And_Put_In_Laundry"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PackBag",
+    "name": "G1_Dex1_PackBag",
+    "downloads": 750,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PackBag"
+  },
+  {
+    "id": "unitreerobotics/unitree_sim_isaaclab_usds",
+    "name": "unitree_sim_isaaclab_usds",
+    "downloads": 736,
+    "likes": 6,
+    "tags": [
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/unitree_sim_isaaclab_usds"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Unlock",
+    "name": "G1_Dex1_Unlock",
+    "downloads": 734,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Unlock"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Brainco_Put_Drinks_Into_Fridge",
+    "name": "G1_WBT_Brainco_Put_Drinks_Into_Fridge",
+    "downloads": 724,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Put_Drinks_Into_Fridge"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_ZipUp",
+    "name": "G1_Dex1_ZipUp",
+    "downloads": 711,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_ZipUp"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Collect_Eggs",
+    "name": "G1_Dex1_Collect_Eggs",
+    "downloads": 709,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Collect_Eggs"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_GraspSquare_Dataset",
+    "name": "G1_Dex3_GraspSquare_Dataset",
+    "downloads": 703,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_GraspSquare_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Pickup_Pillow_MainCamOnly",
+    "name": "G1_WBT_Inspire_Pickup_Pillow_MainCamOnly",
+    "downloads": 703,
+    "likes": 6,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pickup_Pillow_MainCamOnly"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_FruitCollection",
+    "name": "G1_Dex1_FruitCollection",
+    "downloads": 703,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_FruitCollection"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Color_Category",
+    "name": "G1_Dex1_Color_Category",
+    "downloads": 702,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Color_Category"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PlugCharger",
+    "name": "G1_Dex1_PlugCharger",
+    "downloads": 690,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PlugCharger"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Take_Plates_Into_Dishwasher",
+    "name": "G1_WBT_Inspire_Take_Plates_Into_Dishwasher",
+    "downloads": 681,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Take_Plates_Into_Dishwasher"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickApple_Dataset",
+    "name": "G1_Brainco_PickApple_Dataset",
+    "downloads": 660,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickApple_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PlacePhotoFrame",
+    "name": "G1_Dex1_PlacePhotoFrame",
+    "downloads": 660,
+    "likes": 2,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PlacePhotoFrame"
+  },
+  {
+    "id": "unitreerobotics/RoboCupFootball_Dataset",
+    "name": "RoboCupFootball_Dataset",
+    "downloads": 659,
+    "likes": 0,
+    "tags": [
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "format:imagefolder",
+      "modality:image",
+      "modality:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/RoboCupFootball_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Arrange_Flowers",
+    "name": "G1_Dex1_Arrange_Flowers",
+    "downloads": 650,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Arrange_Flowers"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_StackBowls",
+    "name": "G1_Dex1_StackBowls",
+    "downloads": 649,
+    "likes": 1,
+    "tags": [
+      "modality:video",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StackBowls"
+  },
+  {
+    "id": "unitreerobotics/G1_WBT_Inspire_Put_Clothes_into_Washing_Machine_MainCamOnly",
+    "name": "G1_WBT_Inspire_Put_Clothes_into_Washing_Machine_MainCamOnly",
+    "downloads": 641,
+    "likes": 5,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Clothes_into_Washing_Machine_MainCamOnly"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_Pouring_Dataset",
+    "name": "G1_Dex3_Pouring_Dataset",
+    "downloads": 635,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_Pouring_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Find_Green_Blocks",
+    "name": "G1_Dex1_Find_Green_Blocks",
+    "downloads": 632,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Find_Green_Blocks"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Fetch_Object_Bag",
+    "name": "G1_Dex1_Fetch_Object_Bag",
+    "downloads": 621,
+    "likes": 1,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Fetch_Object_Bag"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DiverseManip_DualArm_256x256",
+    "name": "G1_Dex1_DiverseManip_DualArm_256x256",
+    "downloads": 611,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:1804.01523",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DiverseManip_DualArm_256x256"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_FruitSorting",
+    "name": "G1_Dex1_FruitSorting",
+    "downloads": 598,
+    "likes": 2,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_FruitSorting"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_GraspOreo_Dataset",
+    "name": "G1_Brainco_GraspOreo_Dataset",
+    "downloads": 594,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_GraspOreo_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DiverseManip_SingleArm_256x256",
+    "name": "G1_Dex1_DiverseManip_SingleArm_256x256",
+    "downloads": 589,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:1804.01523",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DiverseManip_SingleArm_256x256"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Conveyor_Color_Classification",
+    "name": "G1_Dex1_Conveyor_Color_Classification",
+    "downloads": 582,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Conveyor_Color_Classification"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_GraspRubiksCube_Dataset",
+    "name": "G1_Brainco_GraspRubiksCube_Dataset",
+    "downloads": 580,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_GraspRubiksCube_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Pull_Lollipop",
+    "name": "G1_Dex1_Pull_Lollipop",
+    "downloads": 562,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Pull_Lollipop"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Put_Food_In_Oven",
+    "name": "G1_Dex1_Put_Food_In_Oven",
+    "downloads": 559,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Put_Food_In_Oven"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DiverseManip_DualArm_128x128",
+    "name": "G1_Dex1_DiverseManip_DualArm_128x128",
+    "downloads": 543,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:1804.01523",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DiverseManip_DualArm_128x128"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickBottle_Dataset",
+    "name": "G1_Dex3_PickBottle_Dataset",
+    "downloads": 539,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickBottle_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickApple_Dataset",
+    "name": "G1_Dex3_PickApple_Dataset",
+    "downloads": 536,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickApple_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Hang_Hat",
+    "name": "G1_Dex1_Hang_Hat",
+    "downloads": 530,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Hang_Hat"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Play_Football",
+    "name": "G1_Dex1_Play_Football",
+    "downloads": 526,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Play_Football"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_DiverseManip_SingleArm_128x128",
+    "name": "G1_Dex1_DiverseManip_SingleArm_128x128",
+    "downloads": 523,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:1804.01523",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_DiverseManip_SingleArm_128x128"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_Put_Fruit_On_Plate",
+    "name": "G1_Dex1_Put_Fruit_On_Plate",
+    "downloads": 514,
+    "likes": 0,
+    "tags": [
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Put_Fruit_On_Plate"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickCharger_Dataset",
+    "name": "G1_Brainco_PickCharger_Dataset",
+    "downloads": 504,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickCharger_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickSnack_Dataset",
+    "name": "G1_Dex3_PickSnack_Dataset",
+    "downloads": 496,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickSnack_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PickPlaceCylinder_Dataset_Sim",
+    "name": "G1_Dex1_PickPlaceCylinder_Dataset_Sim",
+    "downloads": 492,
+    "likes": 0,
+    "tags": [
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PickPlaceCylinder_Dataset_Sim"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_PickPlaceRedBlock_Dataset_Sim",
+    "name": "G1_Dex1_PickPlaceRedBlock_Dataset_Sim",
+    "downloads": 474,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PickPlaceRedBlock_Dataset_Sim"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickTissue_Dataset",
+    "name": "G1_Dex3_PickTissue_Dataset",
+    "downloads": 470,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickTissue_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickGum_Dataset",
+    "name": "G1_Dex3_PickGum_Dataset",
+    "downloads": 465,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickGum_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_Dual_Dex1_FoldClothes_Dataset",
+    "name": "Z1_Dual_Dex1_FoldClothes_Dataset",
+    "downloads": 461,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_Dual_Dex1_FoldClothes_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickDoll_Dataset",
+    "name": "G1_Dex3_PickDoll_Dataset",
+    "downloads": 456,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickDoll_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_Dual_Dex1_PourCoffee_Dataset",
+    "name": "Z1_Dual_Dex1_PourCoffee_Dataset",
+    "downloads": 444,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_Dual_Dex1_PourCoffee_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex3_PickCharger_Dataset",
+    "name": "G1_Dex3_PickCharger_Dataset",
+    "downloads": 427,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_PickCharger_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_Dual_Dex1_StackBox_Dataset",
+    "name": "Z1_Dual_Dex1_StackBox_Dataset",
+    "downloads": 425,
+    "likes": 4,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_Dual_Dex1_StackBox_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickDrink_Dataset",
+    "name": "G1_Brainco_PickDrink_Dataset",
+    "downloads": 421,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickDrink_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickDoll_Dataset",
+    "name": "G1_Brainco_PickDoll_Dataset",
+    "downloads": 419,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickDoll_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_Dual_Dex1_CleanupPencils_Dataset",
+    "name": "Z1_Dual_Dex1_CleanupPencils_Dataset",
+    "downloads": 390,
+    "likes": 3,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_Dual_Dex1_CleanupPencils_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickToothpaste_Dataset",
+    "name": "G1_Brainco_PickToothpaste_Dataset",
+    "downloads": 388,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickToothpaste_Dataset"
+  },
+  {
+    "id": "unitreerobotics/G1_Brainco_PickTissues_Dataset",
+    "name": "G1_Brainco_PickTissues_Dataset",
+    "downloads": 378,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Brainco_PickTissues_Dataset"
+  },
+  {
+    "id": "unitreerobotics/Z1_Dual_Dex1_StackBox_Dataset_V2",
+    "name": "Z1_Dual_Dex1_StackBox_Dataset_V2",
+    "downloads": 366,
+    "likes": 2,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:timeseries",
+      "modality:video",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "LeRobot"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/Z1_Dual_Dex1_StackBox_Dataset_V2"
+  },
+  {
+    "id": "unitreerobotics/G1_Dex1_StackRygBlock_Dataset_Sim",
+    "name": "G1_Dex1_StackRygBlock_Dataset_Sim",
+    "downloads": 354,
+    "likes": 1,
+    "tags": [
+      "license:apache-2.0",
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StackRygBlock_Dataset_Sim"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "unitreerobotics/G1_WBT_Brainco_Pickup_Pillow",
+  "name": "G1_WBT_Brainco_Pickup_Pillow",
+  "downloads": 1989,
+  "likes": 5,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "library:lerobot",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Pickup_Pillow",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Brainco)",
+  "hand_type": "Brainco Five-Fingered Anthropomorphic Hand",
+  "task_name": "Pickup Pillow"
+}

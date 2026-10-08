@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_WBT_Brainco_Tidy_Living_Room_Slippers",
+  "name": "G1_WBT_Brainco_Tidy_Living_Room_Slippers",
+  "downloads": 1398,
+  "likes": 1,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Brainco_Tidy_Living_Room_Slippers",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Brainco)",
+  "hand_type": "Brainco Five-Fingered Anthropomorphic Hand",
+  "task_name": "Tidy Living Room Slippers"
+}

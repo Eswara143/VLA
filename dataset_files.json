@@ -1,0 +1,382 @@
+[
+  {
+    "path": ".gitattributes",
+    "name": ".gitattributes",
+    "size": 2461,
+    "size_mb": 0.0,
+    "category": "documentation",
+    "sub_category": "root",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/.gitattributes",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/.gitattributes"
+  },
+  {
+    "path": "README.md",
+    "name": "README.md",
+    "size": 8735,
+    "size_mb": 0.01,
+    "category": "documentation",
+    "sub_category": "root",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/README.md",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/README.md"
+  },
+  {
+    "path": "data/chunk-000/file-000.parquet",
+    "name": "file-000.parquet",
+    "size": 73186769,
+    "size_mb": 69.8,
+    "category": "data",
+    "sub_category": "parquet_data",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/data/chunk-000/file-000.parquet",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/data/chunk-000/file-000.parquet"
+  },
+  {
+    "path": "data/chunk-000/file-001.parquet",
+    "name": "file-001.parquet",
+    "size": 4874858,
+    "size_mb": 4.65,
+    "category": "data",
+    "sub_category": "parquet_data",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/data/chunk-000/file-001.parquet",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/data/chunk-000/file-001.parquet"
+  },
+  {
+    "path": "meta/episodes/chunk-000/file-000.parquet",
+    "name": "file-000.parquet",
+    "size": 929020,
+    "size_mb": 0.89,
+    "category": "metadata",
+    "sub_category": "meta",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/meta/episodes/chunk-000/file-000.parquet",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/meta/episodes/chunk-000/file-000.parquet"
+  },
+  {
+    "path": "meta/info.json",
+    "name": "info.json",
+    "size": 6592,
+    "size_mb": 0.01,
+    "category": "metadata",
+    "sub_category": "meta",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/meta/info.json",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/meta/info.json"
+  },
+  {
+    "path": "meta/stats.json",
+    "name": "stats.json",
+    "size": 14565,
+    "size_mb": 0.01,
+    "category": "metadata",
+    "sub_category": "meta",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/meta/stats.json",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/meta/stats.json"
+  },
+  {
+    "path": "meta/tasks.parquet",
+    "name": "tasks.parquet",
+    "size": 2111,
+    "size_mb": 0.0,
+    "category": "metadata",
+    "sub_category": "meta",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/meta/tasks.parquet",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/meta/tasks.parquet"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-000.mp4",
+    "name": "file-000.mp4",
+    "size": 522969329,
+    "size_mb": 498.74,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-000.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-000.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-001.mp4",
+    "name": "file-001.mp4",
+    "size": 517726095,
+    "size_mb": 493.74,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-001.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-001.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-002.mp4",
+    "name": "file-002.mp4",
+    "size": 513876393,
+    "size_mb": 490.07,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-002.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-002.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-003.mp4",
+    "name": "file-003.mp4",
+    "size": 518068206,
+    "size_mb": 494.07,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-003.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-003.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-004.mp4",
+    "name": "file-004.mp4",
+    "size": 519064647,
+    "size_mb": 495.02,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-004.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-004.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-005.mp4",
+    "name": "file-005.mp4",
+    "size": 519850962,
+    "size_mb": 495.77,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-005.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-005.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-006.mp4",
+    "name": "file-006.mp4",
+    "size": 517572814,
+    "size_mb": 493.6,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-006.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-006.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-007.mp4",
+    "name": "file-007.mp4",
+    "size": 522441294,
+    "size_mb": 498.24,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-007.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-007.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_high/chunk-000/file-008.mp4",
+    "name": "file-008.mp4",
+    "size": 270892688,
+    "size_mb": 258.34,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_high/chunk-000/file-008.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_high/chunk-000/file-008.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-000.mp4",
+    "name": "file-000.mp4",
+    "size": 517447127,
+    "size_mb": 493.48,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-000.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-000.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-001.mp4",
+    "name": "file-001.mp4",
+    "size": 516507503,
+    "size_mb": 492.58,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-001.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-001.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-002.mp4",
+    "name": "file-002.mp4",
+    "size": 521256148,
+    "size_mb": 497.11,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-002.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-002.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-003.mp4",
+    "name": "file-003.mp4",
+    "size": 518673526,
+    "size_mb": 494.65,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-003.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-003.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-004.mp4",
+    "name": "file-004.mp4",
+    "size": 523414371,
+    "size_mb": 499.17,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-004.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-004.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_left_wrist/chunk-000/file-005.mp4",
+    "name": "file-005.mp4",
+    "size": 192086281,
+    "size_mb": 183.19,
+    "category": "video",
+    "sub_category": "observation.images.cam_left_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_left_wrist/chunk-000/file-005.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_left_wrist/chunk-000/file-005.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-000.mp4",
+    "name": "file-000.mp4",
+    "size": 516702568,
+    "size_mb": 492.77,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-000.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-000.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-001.mp4",
+    "name": "file-001.mp4",
+    "size": 519486928,
+    "size_mb": 495.42,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-001.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-001.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-002.mp4",
+    "name": "file-002.mp4",
+    "size": 514212549,
+    "size_mb": 490.39,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-002.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-002.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-003.mp4",
+    "name": "file-003.mp4",
+    "size": 516782191,
+    "size_mb": 492.84,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-003.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-003.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-004.mp4",
+    "name": "file-004.mp4",
+    "size": 523208047,
+    "size_mb": 498.97,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-004.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-004.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-005.mp4",
+    "name": "file-005.mp4",
+    "size": 519627943,
+    "size_mb": 495.56,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-005.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-005.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-006.mp4",
+    "name": "file-006.mp4",
+    "size": 509435775,
+    "size_mb": 485.84,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-006.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-006.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-007.mp4",
+    "name": "file-007.mp4",
+    "size": 523893262,
+    "size_mb": 499.62,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-007.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-007.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_high/chunk-000/file-008.mp4",
+    "name": "file-008.mp4",
+    "size": 311352594,
+    "size_mb": 296.93,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_high",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_high/chunk-000/file-008.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_high/chunk-000/file-008.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-000.mp4",
+    "name": "file-000.mp4",
+    "size": 521367017,
+    "size_mb": 497.21,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-000.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-000.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-001.mp4",
+    "name": "file-001.mp4",
+    "size": 524132485,
+    "size_mb": 499.85,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-001.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-001.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-002.mp4",
+    "name": "file-002.mp4",
+    "size": 521441234,
+    "size_mb": 497.29,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-002.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-002.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-003.mp4",
+    "name": "file-003.mp4",
+    "size": 514251001,
+    "size_mb": 490.43,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-003.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-003.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-004.mp4",
+    "name": "file-004.mp4",
+    "size": 507063931,
+    "size_mb": 483.57,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-004.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-004.mp4"
+  },
+  {
+    "path": "videos/observation.images.cam_right_wrist/chunk-000/file-005.mp4",
+    "name": "file-005.mp4",
+    "size": 513297270,
+    "size_mb": 489.52,
+    "category": "video",
+    "sub_category": "observation.images.cam_right_wrist",
+    "download_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/resolve/main/videos/observation.images.cam_right_wrist/chunk-000/file-005.mp4",
+    "raw_url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_ToastedBread_Dataset/raw/main/videos/observation.images.cam_right_wrist/chunk-000/file-005.mp4"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "unitreerobotics/G1_Dex1_PaperCupStacking",
+  "name": "G1_Dex1_PaperCupStacking",
+  "downloads": 769,
+  "likes": 1,
+  "tags": [
+    "modality:video",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PaperCupStacking",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "PaperCupStacking"
+}

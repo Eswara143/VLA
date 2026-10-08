@@ -1,0 +1,26 @@
+{
+  "id": "unitreerobotics/G1_Dex3_GraspSquare_Dataset",
+  "name": "G1_Dex3_GraspSquare_Dataset",
+  "downloads": 703,
+  "likes": 1,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex3_GraspSquare_Dataset",
+  "finger_category": "3_fingers",
+  "finger_label": "3 Fingers (Dex3)",
+  "hand_type": "Dex3 Three-Fingered Dexterous Hand",
+  "task_name": "GraspSquare"
+}

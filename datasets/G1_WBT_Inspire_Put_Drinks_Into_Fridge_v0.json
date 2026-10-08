@@ -1,0 +1,27 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0",
+  "name": "G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0",
+  "downloads": 1869,
+  "likes": 1,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "library:lerobot",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Drinks_Into_Fridge_v0",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Put Drinks Into Fridge v0"
+}

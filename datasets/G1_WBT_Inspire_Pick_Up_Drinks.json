@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks",
+  "name": "G1_WBT_Inspire_Pick_Up_Drinks",
+  "downloads": 1295,
+  "likes": 1,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Up_Drinks",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Pick Up Drinks"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "unitreerobotics/G1_Dex1_StackRygBlock_Dataset_Sim",
+  "name": "G1_Dex1_StackRygBlock_Dataset_Sim",
+  "downloads": 354,
+  "likes": 1,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_StackRygBlock_Dataset_Sim",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "StackRygBlock Sim"
+}

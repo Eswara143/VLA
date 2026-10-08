@@ -1,0 +1,55 @@
+name: Update website
+
+# Runs whenever anyone pushes to main (for example, adds a file to datasets/).
+# It rebuilds the site data, saves it back to the repo, and publishes the site.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Rebuild data from datasets/
+        run: python3 scripts/build_data.py
+
+      - name: Save rebuilt data to the repo
+        run: |
+          if [ -n "$(git status --porcelain categorized_datasets.json data.js)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add categorized_datasets.json data.js
+            git commit -m "Rebuild site data"
+            git push
+          fi
+
+      - name: Collect website files
+        run: |
+          mkdir _site
+          cp index.html style.css app.js data.js categorized_datasets.json _site/
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

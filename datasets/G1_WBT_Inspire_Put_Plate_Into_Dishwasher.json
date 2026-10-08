@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Put_Plate_Into_Dishwasher",
+  "name": "G1_WBT_Inspire_Put_Plate_Into_Dishwasher",
+  "downloads": 1105,
+  "likes": 1,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Put_Plate_Into_Dishwasher",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Put Plate Into Dishwasher"
+}

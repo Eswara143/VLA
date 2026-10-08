@@ -1,0 +1,15 @@
+{
+  "id": "unitreerobotics/G1_Dex1_PackPhone",
+  "name": "G1_Dex1_PackPhone",
+  "downloads": 923,
+  "likes": 1,
+  "tags": [
+    "modality:video",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_PackPhone",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "PackPhone"
+}

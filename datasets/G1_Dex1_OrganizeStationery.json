@@ -1,0 +1,15 @@
+{
+  "id": "unitreerobotics/G1_Dex1_OrganizeStationery",
+  "name": "G1_Dex1_OrganizeStationery",
+  "downloads": 787,
+  "likes": 0,
+  "tags": [
+    "modality:video",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_OrganizeStationery",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "OrganizeStationery"
+}

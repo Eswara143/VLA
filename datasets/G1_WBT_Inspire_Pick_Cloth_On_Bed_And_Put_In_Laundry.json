@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+  "name": "G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+  "downloads": 897,
+  "likes": 4,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Pick_Cloth_On_Bed_And_Put_In_Laundry",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Pick Cloth On Bed And Put In Laundry"
+}

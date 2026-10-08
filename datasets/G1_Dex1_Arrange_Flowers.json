@@ -1,0 +1,18 @@
+{
+  "id": "unitreerobotics/G1_Dex1_Arrange_Flowers",
+  "name": "G1_Dex1_Arrange_Flowers",
+  "downloads": 650,
+  "likes": 0,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Arrange_Flowers",
+  "finger_category": "2_fingers",
+  "finger_label": "2 Fingers (Dex1)",
+  "hand_type": "Dex1 Two-Fingered Parallel Gripper",
+  "task_name": "Arrange Flowers"
+}

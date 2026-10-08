@@ -1,0 +1,26 @@
+{
+  "id": "unitreerobotics/G1_WBT_Inspire_Collect_Clothes_MainCamOnly",
+  "name": "G1_WBT_Inspire_Collect_Clothes_MainCamOnly",
+  "downloads": 779,
+  "likes": 12,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "LeRobot"
+  ],
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_WBT_Inspire_Collect_Clothes_MainCamOnly",
+  "finger_category": "5_fingers",
+  "finger_label": "5 Fingers (Inspire)",
+  "hand_type": "Inspire Five-Fingered Dexterous Hand",
+  "task_name": "Collect Clothes MainCamOnly"
+}
