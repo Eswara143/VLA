@@ -1,0 +1,13 @@
+{
+  "name": "G1_Dex1_Assembling_Motor",
+  "url": "https://huggingface.co/datasets/unitreerobotics/G1_Dex1_Assembling_Motor",
+  "downloads": 865,
+  "likes": 1,
+  "tags": [
+    "size_categories:n<1K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ]
+}
